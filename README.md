@@ -1,2 +1,1 @@
-# Nayan-Solanki
-smart car using arduino.
+Smart Car Using Arduino.
